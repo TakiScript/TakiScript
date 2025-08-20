@@ -1,4 +1,24 @@
-<!-- ## Hi there 👋
+<h1 style="margin-bottom: 5px;">Hello, I'm Taki
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
+</h1>
+
+I’m an enthusiastic developer and community builder. Feel free to connect!
+
+- ✉️ **Email:** [takiscript@gmail.com](mailto:takiscript@gmail.com)  
+- 💬 **Discord:** [TakiScript](https://discord.com/users/754676438099034142) 
+- 🌐 **Website / Portfolio:** [takiscript.ai](https://takiscript.github.io) 
+
+---
+
+> **“Waaf~”** 🐾
+
+<!--
+### 😂 Random Jokes
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+ ## Hi there 👋
 
 
 **TakiScript/TakiScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="margin-bottom: 5px;">Hello, world! 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
-</h1>
 
 ```python
 # I love Python
