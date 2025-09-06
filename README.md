@@ -69,7 +69,9 @@ print(monty_python.gif)
 </a>
 
 <!-- Top Languages -->
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakiScript&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Taki's top languages" />
-</p>
-
+</p> 
+-->
