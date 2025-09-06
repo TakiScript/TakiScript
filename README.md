@@ -60,6 +60,13 @@ print(monty_python.gif)
   </a>
 </p>
 
+---
+
+<!-- Spotify Card -->
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313vybqp7toazhs62mvrjildnvpu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313vybqp7toazhs62mvrjildnvpu" alt="Data Card for Spotify">
+</a>
 
 <!-- Top Languages -->
 <p align="center">
